@@ -50,6 +50,7 @@
     <Reference Include="System.configuration" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ExpandoObjectExtensions.cs" />
     <Compile Include="IElasticSearchTarget.cs" />
     <Compile Include="Extensions.cs" />
     <Compile Include="Field.cs" />
